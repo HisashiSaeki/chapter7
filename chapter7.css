@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+header {
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-position: bottom center;
+  background-size: cover;
+}
+
+.header-title {
+  padding: 20px;
+}
+
+.site-box {
+  width: 840px;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.site-item {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+}
